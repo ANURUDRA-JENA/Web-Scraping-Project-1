@@ -1,5 +1,7 @@
 # Web-Scraping-Project-1
 Project to scrape data from Just watch.com
+
+![Just Watch](https://github.com/ANURUDRA-JENA/Web-Scraping-Project-1/blob/e7051ddd0790e8ecd224d4bcedd62c42107e103b/asset_management/Screenshot%202024-08-21%20195511.png)
 <h2>Objectives</h2>
 <ul>
     <li><strong>Web Scraping:</strong> Extract data from JustWatch for movies and TV shows using Selenium,&nbsp;Python,&nbsp;and BeautifulSoup.</li>
