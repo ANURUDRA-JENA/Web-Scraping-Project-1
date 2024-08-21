@@ -33,6 +33,9 @@ Project to scrape data from Just watch.com
     <li><strong>Data Analysis:</strong>
         <ul>
             <li>Calculate the average IMDb rating for the filtered data.</li>
+
+<h2>Pls feel free to explore around the project.</h2>
+<h2>Thanks in advance for your suggestions</h2>
             <li>Identify the top 5 genres based on the number of available movies and TV shows.</li>
             <li>Determine the streaming service with the most offerings.</li>
         </ul>
